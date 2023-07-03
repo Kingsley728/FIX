@@ -1,0 +1,23 @@
+hr
+{
+height: 100px;
+}
+
+.fist
+{contain: content;
+text-align: center;
+align-items: center;
+margin-top: 6%;
+text-emphasis-color: black;
+font-size: 900%;
+}
+.fist2
+{
+    text-align: center;
+    align-items: center;
+}
+
+.i
+{margin-top: 0%;
+font-weight: bolder;
+}
